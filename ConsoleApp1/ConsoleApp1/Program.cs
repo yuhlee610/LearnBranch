@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Write by mastee - 1");
             Console.ReadKey();
+            Console.WriteLine("Write by test - 1");
+            Console.ReadKey();
         }
        
     }
