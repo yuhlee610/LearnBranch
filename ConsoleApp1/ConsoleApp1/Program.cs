@@ -10,23 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Write by master");
-            Console.ReadKey();
-        }
-        public void login()
-        {
             Console.WriteLine("Write by duchuy");
             Console.ReadKey();
         }
-        public void register()
-        {
-            Console.WriteLine("Write by duchuy");
-            Console.ReadKey();
-        }
-        public void forgetPass()
-        {
-            Console.WriteLine("Write by duchuy");
-            Console.ReadKey();
-        }
+       
     }
 }
