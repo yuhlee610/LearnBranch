@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Write by master - 1");
+            Console.WriteLine("Write by yuhlee - 1");
             Console.ReadKey();
         }
        
