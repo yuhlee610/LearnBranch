@@ -13,10 +13,6 @@ namespace ConsoleApp1
             Console.WriteLine("Write by master");
             Console.ReadKey();
         }
-        public void login()
-        {
-            Console.WriteLine("Write by duchuy");
-            Console.ReadKey();
-        }
+        
     }
 }
