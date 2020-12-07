@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Write by master");
+            Console.WriteLine("Write by duchuy");
             Console.ReadKey();
         }
-        
+       
     }
 }
