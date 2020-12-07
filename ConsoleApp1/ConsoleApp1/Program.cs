@@ -18,5 +18,15 @@ namespace ConsoleApp1
             Console.WriteLine("Write by duchuy");
             Console.ReadKey();
         }
+        public void register()
+        {
+            Console.WriteLine("Write by duchuy");
+            Console.ReadKey();
+        }
+        public void forgetPass()
+        {
+            Console.WriteLine("Write by duchuy");
+            Console.ReadKey();
+        }
     }
 }
